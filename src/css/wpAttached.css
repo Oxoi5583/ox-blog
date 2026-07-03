@@ -1,0 +1,25 @@
+.dropshadow {
+	box-shadow: 5px 14px 32px -5px rgba(0,0,0,0.75);
+	transition: opacity .5s;
+	transition: box-shadow .5s;
+}
+
+.dropshadow:hover {
+	box-shadow: 5px 14px 32px -5px rgba(0,0,0,0.55);
+	opacity: .75;
+}
+
+.dropshadow:active {
+	box-shadow: 5px 14px 32px -5px rgba(0,0,0,0.35);
+	opacity: .8;
+}
+
+.sticky-heading {
+	position: sticky;
+	top: 25px;
+	background-color: white;
+	z-index: 1000;
+	opacity: .8;
+	padding: 10px;
+	border-bottom: 1px solid #ddd;
+}

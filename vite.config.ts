@@ -11,5 +11,6 @@ export default defineConfig({
   base: '',
   build: {
     outDir: '/var/www/html',
+    emptyOutDir: true
   }
 })

@@ -37,7 +37,7 @@ function AppMain() {
                 }}
 
                 onMouseUp={()=>{
-                    navigate(buildAppRouteUrl({ navi: 'WRITINGS', writingsMode: 'POSTS' }));
+                    navigate(buildAppRouteUrl({ navi: 'ABOUT_ME' }));
                 }}
             >
             COVER_PAGE

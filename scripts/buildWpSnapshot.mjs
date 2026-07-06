@@ -2,7 +2,7 @@ import { mkdir, writeFile } from "node:fs/promises";
 import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const API_ROOT = "https://public-api.wordpress.com/wp/v2/sites/oxoi3.wordpress.com";
+const API_ROOT = "https://wordpress.dec-oxoi.com/wp-json/wp/v2";
 const OUTPUT_PATH = fileURLToPath(new URL("../src/generated/wpSnapshot.json", import.meta.url));
 const API_PAGE_SIZE = 100;
 const APP_PAGE_SIZE = 12;

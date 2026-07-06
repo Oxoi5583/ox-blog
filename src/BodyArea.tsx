@@ -1,4 +1,5 @@
 import BodyAreaWritings from "./BodyAreaWritings"
+import BodyAreaDevelop from "./BodyAreaDevelop";
 import { useState } from "react";
 import dataHub from "./DataHub";
 
@@ -16,7 +17,7 @@ function BodyArea() {
     <>
       <div style={{ display: WRITINGS_displayType }}><BodyAreaWritings/></div>
       <div style={{ display: TIMELINE_displayType }}><div/></div>
-      <div style={{ display: DEVELOP_displayType }}><div/></div>
+      <div style={{ display: DEVELOP_displayType }}><div/><BodyAreaDevelop/></div>
       <div style={{ display: ABOUT_ME_displayType }}><div/></div>
     </>
   )

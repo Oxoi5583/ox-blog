@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import BodyAreaLeft from './BodyAreaLeft';
-import BodyAreaRight from './BodyAreaRight';
+import BodyAreaLeft from './BodyAreaWritingsLeft';
+import BodyAreaRight from './BodyAreaWritingsRight';
 import { BodyAreaGoTo, Direction } from './BodyAreaGoTo';
 import dataHub from './DataHub';
 import { buildAppRouteUrl } from './AppRouteParameters';

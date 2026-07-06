@@ -18,7 +18,7 @@ interface ArticleButtonGoProps{
 function ArticleButtonGo({ p_id, p_setIsGBHovered, p_setIsGBDown, p_setIsGBUp, p_isGBDown, p_isGBHovered, p_isExpanded } : ArticleButtonGoProps){
     const navigate = useNavigate();
 
-    const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
+    const [aritcleCateSelected, setAritcleCateSelected] = useState(2);
     dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
 
     return (

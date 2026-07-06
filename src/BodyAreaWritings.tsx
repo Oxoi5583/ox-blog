@@ -13,7 +13,7 @@ function BodyAreaWritings() {
 
   const [writingsMode, setWritingsMode] = useState('POSTS');
   dataHub.addListener(setWritingsMode, 'WRITINGS_MODE');
-  const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
+  const [aritcleCateSelected, setAritcleCateSelected] = useState(2);
   dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
   
   const navigate = useNavigate();

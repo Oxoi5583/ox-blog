@@ -6,7 +6,7 @@ import dataHub from './DataHub'
 import WordPressPostPayload from './WordPressPostPayload';
 import useWindowDimensions from './WindowDimensions';
 import Spacer from './Spacer';
-import { buildAppRouteUrl, DEFAULT_ARTICLE_CATE_ID } from "./AppRouteParameters";
+import { buildAppRouteUrl, DEFAULT_ARTICLE_CATE_ID, DEFAULT_POST_CATE_ID } from "./AppRouteParameters";
 
 function ArticleAreaInspector(){
     const [currentPage, setCurrentPages] = useState(1);
@@ -39,7 +39,7 @@ function ArticleAreaInspector(){
 
     let allArticleIds = inspectorArticleData.filter((id : number, index : number)=>{
         return articleData.get(id)?.categories.includes(aritcleCateSelected)
-        && !articleData.get(id)?.categories.includes(789172360)
+        && !articleData.get(id)?.categories.includes(DEFAULT_POST_CATE_ID)
     });
 
     dataHub.setData('ARTICLE_TOTAL_PAGE', Math.ceil(allArticleIds.length / pageSize));

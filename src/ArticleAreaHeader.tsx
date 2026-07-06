@@ -3,6 +3,7 @@ import ArticlePageButtonGroup from './ArticlePageButtonGroup';
 import ArticleAreaHeaderTab from './ArticleAreaHeaderTab';
 import dataHub from './DataHub' 
 import useWindowDimensions from './WindowDimensions';
+import { DEFAULT_POST_CATE_ID } from './AppRouteParameters'
 
 function ArticleAreaHeader(){
     const [isAritcleHeaderHovered, setIsAritcleHeaderHovered] = useState(false);
@@ -83,7 +84,7 @@ function ArticleAreaHeader(){
                             let name_2 = cates.get(id_2)??'1';
                             return (name_1 > name_2) ? 1 : -1; 
                         }).filter((id : number, index : number)=>{
-                            return id != 789172360 && !isShowTab;
+                            return id != DEFAULT_POST_CATE_ID && !isShowTab;
                         }).map((id : number)=>(
                             <ArticleAreaHeaderTab p_id={id} p_text={cates.get(id) ?? '其他'}/>
                         ))

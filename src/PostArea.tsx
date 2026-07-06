@@ -3,6 +3,7 @@ import dataHub from "./DataHub";
 import PostAreaPostBlock from "./PostAreaPostBlock";
 import LoadingSpinner from "./LoadingSpinner";
 import WordPressPostPayload from "./WordPressPostPayload";
+import { DEFAULT_POST_CATE_ID } from "./AppRouteParameters";
 
 function PostArea() {
     const [inspectorArticleData, setInspectorArticleData] = useState(new Array<number>());
@@ -22,7 +23,7 @@ function PostArea() {
     dataHub.addListener(setIsFetchingCates, 'DATA_LOADER_IS_FETCHING_ARTICLE_CATES');
     
     let allArticleIds = inspectorArticleData.filter((id : number, index : number)=>{
-        return articleData.get(id)?.categories.includes(789172360);
+        return articleData.get(id)?.categories.includes(DEFAULT_POST_CATE_ID);
     });
 
     return (

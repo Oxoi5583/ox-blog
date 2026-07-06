@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 auth/github.json
+src/generated/githubSnapshot.json
+src/generated/wpSnapshot.json

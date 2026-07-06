@@ -2,7 +2,7 @@ import { useState } from "react";
 import dataHub from "./DataHub";
 import ArticleAreaContentWindowHeaderButton from "./ArticleAreaContentWindowHeaderButton";
 import { useNavigate } from "react-router-dom";
-import { buildAppRouteUrl } from "./AppRouteParameters";
+import { buildAppRouteUrl, DEFAULT_ARTICLE_CATE_ID } from "./AppRouteParameters";
 
 function ArticleAreaContentWindowHeader(){
     const [articleContentTextSizePx, setArticleContentTextSizePx] = useState(12);
@@ -10,7 +10,7 @@ function ArticleAreaContentWindowHeader(){
     const [articleContentTextWidthPx, setArticleContentTextWidthPx] = useState(700);
     dataHub.addListener(setArticleContentTextWidthPx, 'ARTICLE_CONTENT_TEXT_WIDTH_PX');
 
-    const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
+    const [aritcleCateSelected, setAritcleCateSelected] = useState(DEFAULT_ARTICLE_CATE_ID);
     dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
     
     const clamp = (val: number, min: number, max: number): number => {

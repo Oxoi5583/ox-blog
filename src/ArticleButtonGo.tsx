@@ -1,7 +1,7 @@
 import { useState } from "react";
 import dataHub from "./DataHub";
 import { useNavigate } from "react-router-dom";
-import { buildAppRouteUrl } from "./AppRouteParameters";
+import { buildAppRouteUrl, DEFAULT_ARTICLE_CATE_ID } from "./AppRouteParameters";
 
 interface ArticleButtonGoProps{
     p_id : number,
@@ -18,7 +18,7 @@ interface ArticleButtonGoProps{
 function ArticleButtonGo({ p_id, p_setIsGBHovered, p_setIsGBDown, p_setIsGBUp, p_isGBDown, p_isGBHovered, p_isExpanded } : ArticleButtonGoProps){
     const navigate = useNavigate();
 
-    const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
+    const [aritcleCateSelected, setAritcleCateSelected] = useState(DEFAULT_ARTICLE_CATE_ID);
     dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
 
     return (

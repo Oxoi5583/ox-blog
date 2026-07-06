@@ -4,7 +4,7 @@ import BodyAreaLeft from './BodyAreaWritingsLeft';
 import BodyAreaRight from './BodyAreaWritingsRight';
 import { BodyAreaGoTo, Direction } from './BodyAreaGoTo';
 import dataHub from './DataHub';
-import { buildAppRouteUrl } from './AppRouteParameters';
+import { buildAppRouteUrl, DEFAULT_ARTICLE_CATE_ID } from "./AppRouteParameters";
 
 
 function BodyAreaDevelop() {
@@ -13,7 +13,7 @@ function BodyAreaDevelop() {
 
   const [writingsMode, setWritingsMode] = useState('POSTS');
   dataHub.addListener(setWritingsMode, 'WRITINGS_MODE');
-  const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
+  const [aritcleCateSelected, setAritcleCateSelected] = useState(DEFAULT_ARTICLE_CATE_ID);
   dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
   
   const navigate = useNavigate();

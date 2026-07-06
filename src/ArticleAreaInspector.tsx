@@ -6,6 +6,7 @@ import dataHub from './DataHub'
 import WordPressPostPayload from './WordPressPostPayload';
 import useWindowDimensions from './WindowDimensions';
 import Spacer from './Spacer';
+import { buildAppRouteUrl, DEFAULT_ARTICLE_CATE_ID } from "./AppRouteParameters";
 
 function ArticleAreaInspector(){
     const [currentPage, setCurrentPages] = useState(1);
@@ -26,7 +27,7 @@ function ArticleAreaInspector(){
     const [isFetchingCates, setIsFetchingCates] = useState(false);
     dataHub.addListener(setIsFetchingCates, 'DATA_LOADER_IS_FETCHING_ARTICLE_CATES');
 
-    const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
+    const [aritcleCateSelected, setAritcleCateSelected] = useState(DEFAULT_ARTICLE_CATE_ID);
     dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
 
     const pageSize : number = 12;

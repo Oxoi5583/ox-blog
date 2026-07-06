@@ -5,7 +5,7 @@ import authData from '../auth/github.json' with { type: 'json' };
 import { read } from "node:fs";
 
 const API_ROOT = "https://api.github.com";
-const OUTPUT_PATH = fileURLToPath(new URL("../src/generated/githubSnapshot.json", import.meta.url));
+const OUTPUT_PATH = fileURLToPath(new URL("../src/99-generated/githubSnapshot.json", import.meta.url));
 const ACCESS_TOKEN = authData.accessToekn;
 
 function buildUrl(path, params = {}) {

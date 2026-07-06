@@ -1,0 +1,224 @@
+@font-face {
+  font-family: 'Bauhaus 93';
+  src: url('../99-assets/fonts/Bauhaus 93 Regular.ttf') format('truetype'),
+        url('../99-assets/fonts/BAUHS93.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'DelaGothicOne-Regular';
+  src: url('../99-assets/fonts/DelaGothicOne-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Rajdhani';
+  src: url('../99-assets/fonts/Rajdhani-Bold.ttf') format('truetype'),
+        url('../99-assets/fonts/Rajdhani-Light.ttf') format('truetype'),
+        url('../99-assets/fonts/Rajdhani-Medium.ttf') format('truetype'),
+        url('../99-assets/fonts/Rajdhani-Regular.ttf') format('truetype'),
+        url('../99-assets/fonts/Rajdhani-SemiBold.ttf') format('truetype'),;
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Zen Maru Gothic';
+  src: url('../99-assets/fonts/Zen_Maru_Gothic/ZenMaruGothic-Bold.ttf') format('truetype'),
+        url('../99-assets/fonts/Zen_Maru_Gothic/ZenMaruGothic-Medium.ttf') format('truetype'),
+        url('../99-assets/fonts/Zen_Maru_Gothic/ZenMaruGothic-Black.ttf') format('truetype'),
+        url('../99-assets/fonts/Zen_Maru_Gothic/ZenMaruGothic-Regular.ttf') format('truetype'),
+        url('../99-assets/fonts/Zen_Maru_Gothic/ZenMaruGothic-Light.ttf') format('truetype'),;
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.wp-block-paragraph {
+  line-height: 1.8;
+  margin-bottom: 2em;
+  font-family: 'Helvetica', sans-serif;
+  color: black;
+}
+
+:root {
+  display: grid;
+  
+  /* Disable Text Selectable none/all */
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; 
+
+  overflow: hidden;
+
+  --head-button-content: "UNKNOWN";
+  
+  font-family: "Abadi ExtraLight";
+
+  margin: 0;
+
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.main-app{
+  display: grid;
+  grid-template-rows: 36px calc(100% - 36px);
+
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  height: 100vh;
+  width: 100vw;
+
+  transition: grid-template-rows 1.0s ease-out;
+
+  background: #ffffff;
+}
+
+.main-app:has(.head-area:hover){
+  grid-template-rows: 65px calc(100% - 65px);
+}
+
+.head-area{
+  display: grid;
+  grid-template-columns: 50px calc(100% - 50px);
+
+  transition: grid-template-columns 0.2s ease;
+
+  border-bottom: 2px solid #cccfd6;
+  background-color: #ffffff;
+  z-index: 10;
+}
+
+.head-area:has(.logo-area:hover){
+  grid-template-columns: 175px calc(100% - 175px);
+}
+.head-area:has(.logo-area:active):has(.logo-area:hover){
+  grid-template-columns: 155px calc(100% - 155px);
+}
+
+.logo-area{
+  font-size: 24px;
+  align-content: center;
+  color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.0);
+  position: relative;
+  overflow: hidden;
+
+  height: 100%;
+  width: 100%;
+
+  font-family: "Bauhaus 93";
+
+  z-index: 0;
+  transition: background 0.5s ease, font-size 0.5s ease, color 0.5s ease;
+}
+
+.logo-area::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: #30333a;
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.65s ease, background 0.25s ease;
+  z-index: -1;
+}
+
+.head-area:hover .logo-area:hover::before {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+.head-area:hover .logo-area:hover{
+  font-size: 48px;
+  background: #ffffff;
+  color: rgb(255, 255, 255);
+}
+
+.head-area:hover .logo-area:active::before {
+  transform: scaleX(1);
+  transform-origin: left;
+  background: #4f5566;
+}
+
+.head-area:hover{
+  grid-template-columns: 100px calc(100% - 100px);
+
+}
+.head-area:hover .logo-area:not(hover){
+  font-size: 32px;
+}
+
+
+.head-buttons{
+  display: flex;
+  color: rgb(126, 103, 103);
+}
+
+.head-button{
+  align-content: center;
+  min-width: 80px;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.0);
+
+  transition: font-size 0.65s ease, color 0.65s ease;
+
+  z-index: 0;
+}
+
+.head-button:hover{
+  color: white;
+}
+
+.head-button::before{
+  content: var(--head-button-content, "ERROR");
+  position: absolute;
+  inset: 0;
+  background-color: #30333a;
+
+  font-family: 'Rajdhani';
+
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+
+  font-size: 15px;
+
+  align-content: flex-end;
+
+  transform: scaleY(0);
+  transform-origin: top;
+  transition: transform 0.2s ease, border-radius 0.5s ease, background 0.05s ease-in;
+
+  z-index: -1;
+}
+
+.head-button:hover::before{
+  border-radius: 5%;
+
+  transform: scaleY(2);
+  transform-origin: center;
+}
+
+.head-button:hover:active::before{
+  border-radius: 5%;
+
+  background: #4f5566;
+
+  transform: scaleY(1.7);
+  transform-origin: center;
+}
+
+
+.left-area{
+  border-right: 1px solid #30333a;
+}
+
+.material-symbols-outlined{
+  margin-top: 5%;
+  font-size: 24px;
+  transition: font-size 0.65s ease;
+}

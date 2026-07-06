@@ -3,7 +3,7 @@ import { dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const API_ROOT = "https://wordpress.dec-oxoi.com/wp-json/wp/v2";
-const OUTPUT_PATH = fileURLToPath(new URL("../src/generated/wpSnapshot.json", import.meta.url));
+const OUTPUT_PATH = fileURLToPath(new URL("../src/99-generated/wpSnapshot.json", import.meta.url));
 const API_PAGE_SIZE = 100;
 const APP_PAGE_SIZE = 12;
 

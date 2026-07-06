@@ -1,7 +1,7 @@
 import { StrictMode } from 'react'
 import { createRoot,hydrateRoot } from 'react-dom/client'
 import './index.css'
-import App from './App.tsx'
+import App from './01-App/App.tsx'
 
 const root = document.getElementById("root")!;
 

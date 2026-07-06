@@ -16,8 +16,6 @@ function PostAreaPostBlock({ p_id } : PostAreaPostBlockProps) {
     const defualtDate = new Date('1999-01-01');
     const publishedDate = format(articleData.get(p_id)?.publishedDate??defualtDate, 'yyyy-MM-dd HH:mm:ss');
 
-    console.log(publishedDate)
-
     const authorId = data.embedded.author[0]?.id;
     const authorName = data.embedded.author[0]?.name;
     const authorAvatarUrl = data.embedded.author[0]?.avatarUrls;

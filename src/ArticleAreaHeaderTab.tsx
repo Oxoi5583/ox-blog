@@ -11,7 +11,7 @@ interface ArticleAreaHeaderTabProps{
 function ArticleAreaHeaderTab({ p_id ,p_text } : ArticleAreaHeaderTabProps){
     const [isAritcleHeaderHovered, setIsAritcleHeaderHovered] = useState(false);
     dataHub.addListener(setIsAritcleHeaderHovered, 'ARTICLE_HEADER_HOVERED');
-    const [aritcleCateSelected, setAritcleCateSelected] = useState(2);
+    const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
     dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
     const [isHTHovered, setIsHTHovered] = useState(false);
     const [isHTDown, setIsHTDown] = useState(false);

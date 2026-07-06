@@ -10,7 +10,7 @@ function ArticleAreaContentWindowHeader(){
     const [articleContentTextWidthPx, setArticleContentTextWidthPx] = useState(700);
     dataHub.addListener(setArticleContentTextWidthPx, 'ARTICLE_CONTENT_TEXT_WIDTH_PX');
 
-    const [aritcleCateSelected, setAritcleCateSelected] = useState(2);
+    const [aritcleCateSelected, setAritcleCateSelected] = useState(788875233);
     dataHub.addListener(setAritcleCateSelected, 'ARTICLE_CATE_SELECTED');
     
     const clamp = (val: number, min: number, max: number): number => {

@@ -34,6 +34,7 @@ function BodyAreaWritings() {
           gridTemplateColumns: templateColumns,
           transition: 'grid-template-columns 0.5s ease',
           height: '100%',
+          background: '#F6F7F9'
         }}>
           {/* Left Area */}
           <div 
@@ -47,7 +48,7 @@ function BodyAreaWritings() {
           >
 
             <div style={{
-                display: (isAtLeftArea && isLeftFinishedTrans) ? 'inline' : 'none',
+                display: (isAtLeftArea) ? 'inline' : 'none',
                 height: '100%',
                 width: 'calc(100% - 20px)',
               }}
@@ -55,7 +56,7 @@ function BodyAreaWritings() {
               <BodyAreaLeft/>
             </div>
             <div style={{
-                display: (isAtLeftArea && isLeftFinishedTrans) ? 'none' : 'inline',
+                display: (isAtLeftArea) ? 'none' : 'inline',
                 height: '100%',
                 width: 'calc(100% - 20px)',
               }}

@@ -34,10 +34,9 @@ function PostAreaPostBlock({ p_id } : PostAreaPostBlockProps) {
                 alignItems: 'center',
                 overflow: 'hidden',
 
-                padding: '15px',
                 margin: '15px',
 
-                border: '1px solid black',
+                border: '1px solid #EEEEFF',
                 fontFamily: 'Zen Maru Gothic',
 
                 borderRadius: '5px',
@@ -53,6 +52,9 @@ function PostAreaPostBlock({ p_id } : PostAreaPostBlockProps) {
                     flexDirection: 'row',
                     width: '100%',
                     alignItems: 'center',
+                    borderBottom: '1px solid #EEEEFF',
+                    background: '#333365',
+                    color: 'white'
                 }}
             >
                 <div
@@ -62,13 +64,9 @@ function PostAreaPostBlock({ p_id } : PostAreaPostBlockProps) {
                         width: '100%',
                         alignItems: 'center',
                         userSelect: 'none',
-
+                        
                         paddingTop: '10px',
                         paddingBottom: '10px',
-
-                        background: '#00000005',
-
-                        border: '1px solid #00000055',
                         borderRadius: '25px',
                     }}
                 >
@@ -148,13 +146,10 @@ function PostAreaPostBlock({ p_id } : PostAreaPostBlockProps) {
                     textAlign: 'left',
 
                     margin: '15px',
-                    marginTop: '25px',
                     padding: '15px',
-                    paddingTop: '25px',
 
                     fontSize: '12px',
 
-                    border: '1px solid black'
                 }}
             >
                 <div

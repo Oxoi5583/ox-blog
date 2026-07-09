@@ -1,5 +1,5 @@
 import BodyAreaWritings from "./BodyAreaWritings/BodyAreaWritings"
-import BodyAreaDevelop from "./BodyAreaDevelop";
+import BodyAreaDevelop from "./BodyAreaDevelop/BodyAreaDevelop";
 import { useState } from "react";
 import dataHub from "../99-shared/DataHub";
 

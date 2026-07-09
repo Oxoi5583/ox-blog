@@ -9,6 +9,11 @@ export default defineConfig({
     babel({ presets: [reactCompilerPreset()] })
   ],
   base: '',
+  server: {
+    watch: {
+      usePolling: true,
+    },
+  },
   build: {
     outDir: '/var/www/html',
     emptyOutDir: true

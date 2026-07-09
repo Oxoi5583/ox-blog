@@ -34,7 +34,7 @@ function ArticleAreaHeader(){
                 style={{
                     display: 'flex',
                     flexDirection: 'row',
-                    borderBottom: '3px solid #4f5566',
+                    borderBottom: '3px solid #4f5566'
                 }}
             >
                 <div

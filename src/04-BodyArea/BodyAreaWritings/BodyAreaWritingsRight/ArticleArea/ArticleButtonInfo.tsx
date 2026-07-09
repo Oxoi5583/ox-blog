@@ -26,6 +26,7 @@ function ArticleButtonInfo({ p_isExpanded, p_data, p_date, p_used_tags, p_tags }
 
                 overflow: 'hidden',
                 border: '1px solid #e7e9f0',
+                background: '#FFFFFF',
             }}
         >
             <div

@@ -30,7 +30,14 @@ function ArticleArea(){
 
                 margin: '10px',
 
-                transition: '0.5s grid-template-rows ease-out'
+                transition: '0.5s grid-template-rows ease-out',
+
+                background: 'white',
+                border: '1px solid #DDDDDD',
+                paddingTop: '5px',
+                paddingLeft: '10px',
+                paddingRight: '10px',
+                borderRadius: '5px'
             }}
         >
             <ArticleAreaHeader></ArticleAreaHeader>

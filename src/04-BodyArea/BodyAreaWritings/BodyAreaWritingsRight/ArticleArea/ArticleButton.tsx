@@ -32,8 +32,8 @@ function ArticleButton({ p_id, p_data, p_tags } : ArticleButtonProps){
     let used_tags : number[] = p_data.tags;
 
     let isHovered = (isABHovered && ! isGBHovered);
-    let bgColor = (isHovered) ? '#00000005' : '#00000000';
-    bgColor = (isABDown) ? '#0000000A' : bgColor;
+    let bgColor = (isHovered) ? '#EEEEEE' : '#FFFFFF';
+    bgColor = (isABDown) ? '#EEEEEE' : bgColor;
 
     let isExpanded = (selectedButton == p_id);
 
@@ -75,7 +75,7 @@ function ArticleButton({ p_id, p_data, p_tags } : ArticleButtonProps){
                 paddingTop: (isExpanded) ? '15px' : '0px',
                 paddingLeft: (isExpanded) ? '15px' : '0px',
                 paddingBottom: (isExpanded) ? '185px' : '0px',
-                zIndex: '1',
+                zIndex: '1'
             }}
             >
             <div
@@ -93,7 +93,7 @@ function ArticleButton({ p_id, p_data, p_tags } : ArticleButtonProps){
                     fontSize: '12px',
                     height: '100%',
                     width: '100%',
-                    zIndex: '1',
+                    zIndex: '1'
                 }}
             >
                 <ArticleButtonArrow p_isExpanded={isExpanded}></ArticleButtonArrow>

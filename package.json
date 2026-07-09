@@ -4,20 +4,24 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "npm run snapshot && vite",
     "snapshot": "node scripts/buildWpSnapshot.mjs && node scripts/buildGithubSnapshot.mjs",
     "build": "npm run snapshot && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
+    "buffer": "^6.0.3",
     "date-fns": "^4.1.0",
     "material-symbols": "^0.44.2",
     "motion": "^12.38.0",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",
+    "react-markdown": "^10.1.0",
     "react-native-web": "^0.21.2",
     "react-router-dom": "^7.14.2",
+    "rehype-raw": "^7.0.0",
+    "remark-gfm": "^4.0.1",
     "styled-components": "^6.4.0"
   },
   "devDependencies": {
@@ -25,7 +29,7 @@
     "@eslint/js": "^9.39.4",
     "@rolldown/plugin-babel": "^0.2.2",
     "@types/babel__core": "^7.20.5",
-    "@types/node": "^24.12.2",
+    "@types/node": "^24.13.3",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.1",

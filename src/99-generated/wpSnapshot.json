@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T04:58:50.244Z",
+  "generatedAt": "2026-07-09T07:01:45.958Z",
   "source": "https://wordpress.dec-oxoi.com/wp-json/wp/v2",
   "appPageSize": 12,
   "posts": [
@@ -10,8 +10,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2913"
       },
-      "modified": "2026-06-07T23:21:18",
-      "modified_gmt": "2026-06-07T15:21:18",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e7%9f%ad%e6%96%87-%e5%a6%82%e4%bd%95%e7%90%86%e8%a7%a3%e9%9b%bb%e5%ad%90%e9%99%bd%e7%97%bf%ef%bc%9f",
       "status": "publish",
       "type": "post",
@@ -24,7 +24,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>現在所謂玩家族群的核心部分，其實就是指2010後加入遊戲文化的人群，因為實況文化加上次世代渲染提高宣傳效果和電 [&hellip;]</p>\n",
+        "rendered": "<p>現在所謂玩家族群的核心部分，其實就是指2010後加入遊戲文化的人群，因為實況文化加上次世代渲染提高宣傳效果和電競比賽的投資提高，使得遊戲的遊戲性沒有提升，但遊戲的可被觀看性卻在提升，這導致了遊戲的重心從「遊玩」逐漸滑向的了「觀賞」，入坑的人更多是從看開始才到玩，而玩可能都只佔一小部分時間而已，反而像我這種從遊戲開始，始終在消費遊戲本身的已經是少數派了。 所以在這個時開始遊戲習慣的人群而言，社群其實才是核心，遊戲反而不是，實際上比起消費遊戲本身，消費遊戲迷因和影片的總時間都還要更高，一個遊戲你可能會沒時間玩，但卻很有可能看了它的大量迷因和討論。那自然不符合這三個條件的遊戲類型都很難吃到10年的遊 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -87,8 +87,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2913/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2929,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2913/revisions/2929"
           }
         ],
         "wp:attachment": [
@@ -122,7 +128,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -158,8 +164,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2909"
       },
-      "modified": "2026-05-14T21:41:02",
-      "modified_gmt": "2026-05-14T13:41:02",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e7%9f%ad%e6%96%87-%e9%a6%99%e6%b8%af%e6%98%af%e7%94%a2%e8%87%aa%e7%94%b1%e7%9a%84%e5%a7%94%e5%85%a7%e7%91%9e%e6%8b%89",
       "status": "publish",
       "type": "post",
@@ -172,7 +178,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>說實在的香港電影黃金期之所以黃金，僅僅是因為當時東亞只有兩個地方有正常的自由化市場， 就是日本和香港， 台灣在 [&hellip;]</p>\n",
+        "rendered": "<p>說實在的香港電影黃金期之所以黃金，僅僅是因為當時東亞只有兩個地方有正常的自由化市場， 就是日本和香港， 台灣在戒嚴、韓國在鎮壓、印度在社會主義、中國在文革、 越南在打仗，香港人常說「香港的最大價值是自由」，而我會說「香港的最大價值是自由，那香港就死定了」。自由當然有價值，但問題是價值有多少? 以前如果有你有自由，而全世界都沒有，當然能賣個好價錢，但現在台灣自由化、韓國自由化、印度自由化、中國雖然最近回潮，但也曾自由化過、 越南也在自由化，而「香港的最大價值是自由」，那還有呢？在這個世代還能有什用？這不就是個簡單的供需理論，說到底如果一個地方的最大價值只是「我比較自由」，那它依賴的就是別人不自由 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -237,8 +243,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2909/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2930,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2909/revisions/2930"
           }
         ],
         "wp:attachment": [
@@ -272,7 +284,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -308,8 +320,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2887"
       },
-      "modified": "2026-05-08T14:11:15",
-      "modified_gmt": "2026-05-08T06:11:15",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e7%9f%ad%e6%96%87-%e9%96%92%e8%81%8aimgui",
       "status": "publish",
       "type": "post",
@@ -322,7 +334,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>不得不說，ImGUI的設計真的很好，它用了視窗作為基礎元件，而只要把視窗設置No Title就能變成像一般UI [&hellip;]</p>\n",
+        "rendered": "<p>不得不說，ImGUI的設計真的很好，它用了視窗作為基礎元件，而只要把視窗設置No Title就能變成像一般UI一樣。可以理解成它找到了一個基本上能滿足一切要求的最小單元，然後再提供變體的操作空間，最終就能變化成按鈕、Bar、裝飾元件或一切需要用到的UI元件，真的很聰明、很優雅。 而且它是Imperative，不是Declarative，這思維太正確了，Declarative的黑箱性太高了。 這種東西真的只有C/C++的開發者社群才設計得出來的玩意，其他UI Framework都是要100小時的學習時間加100小時的實作時間，ImGUI則只需要2個小時的學習時間加120個小時的實作時，太エレガン [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -387,8 +399,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2887/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2932,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2887/revisions/2932"
           }
         ],
         "wp:attachment": [
@@ -422,7 +440,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -458,8 +476,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2881"
       },
-      "modified": "2026-05-08T13:09:04",
-      "modified_gmt": "2026-05-08T05:09:04",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e7%9f%ad%e6%96%87-%e6%8a%b1%e6%80%a8it%e6%a5%ad-01",
       "status": "publish",
       "type": "post",
@@ -472,7 +490,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>香港 IT業真的笨蛋太多了，一堆Master畢業的連Abstraction、Wrapper都聽不懂。在香港 I [&hellip;]</p>\n",
+        "rendered": "<p>香港 IT業真的笨蛋太多了，一堆Master畢業的連Abstraction、Wrapper都聽不懂。在香港 IT業有基礎抽象力的可能連六成都沒有，更別說去到形上學程度的了。做Infra的連Socket、TCP都不懂，連Nmap都不會用，Webhook和API明明就是一樣的東西，都只是HTTP Server也要我解釋一整天，做Data十年的連relational database裡的Index是B-Tree，而Clustered Index是有排序B-Tree，連Data Partioning的概念都不知道，連SQL上Function不能放在Column上做Condition，否則Index會失 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -537,8 +555,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2881/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2933,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2881/revisions/2933"
           }
         ],
         "wp:attachment": [
@@ -572,7 +596,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -608,8 +632,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2870"
       },
-      "modified": "2026-05-08T11:57:24",
-      "modified_gmt": "2026-05-08T03:57:24",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e7%9f%ad%e6%96%87%e9%9a%a8%e7%ad%86-%e9%81%8a%e6%88%b2%e9%96%8b%e7%99%bc%e7%9a%84%e7%99%bc%e5%b1%95%e6%96%b9%e5%90%91%e9%9a%a8%e6%83%b3%e8%88%8a%e6%96%87",
       "status": "publish",
       "type": "post",
@@ -622,7 +646,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>最近有一些思考，我一直覺得遊戲的本質是「程式開發」，而程式工程師才是最了解程式開發的人，這是無論多少Low-C [&hellip;]</p>\n",
+        "rendered": "<p>最近有一些思考，我一直覺得遊戲的本質是「程式開發」，而程式工程師才是最了解程式開發的人，這是無論多少Low-Code\\No-Code的工具出現都無法改變的事實。 但問題是現在大多主流高成本遊戲是由關卡/UX設計師出身的開發者擔任主導者，像是Diablo系列就是很好的例子，從最一開始1代和2代的製作人由程式設計師(David Brevik)擔任，到後來3代和4代則變成了關卡/UX設計師(Joe Shely、Luis Barriga)或是創意總監(Sebastian Stepienz)等企劃向的專業來主導，而結果上而言，最終也是是空有成本卻無法做出比低成本遊戲更驚人的內容，擔任主導者的就應該是具有 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -687,8 +711,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2870/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2934,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2870/revisions/2934"
           }
         ],
         "wp:attachment": [
@@ -722,7 +752,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -758,8 +788,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2860"
       },
-      "modified": "2026-05-08T11:17:08",
-      "modified_gmt": "2026-05-08T03:17:08",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e7%9f%ad%e6%96%87%e9%9a%a8%e7%ad%86%ef%bc%9a%e9%9f%b3%e6%a8%82%e5%95%86%e5%93%81%e5%8c%96%e7%9a%84%e6%9c%aa%e4%be%86",
       "status": "publish",
       "type": "post",
@@ -772,7 +802,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>最近在思考音樂的最好銷路是就是作品結合，這也是為甚麼現在的音樂界有句話是「如果沒MV，就和沒寫過一樣」，例如以 [&hellip;]</p>\n",
+        "rendered": "<p>最近在思考音樂的最好銷路是就是作品結合，這也是為甚麼現在的音樂界有句話是「如果沒MV，就和沒寫過一樣」，例如以動畫為例是現有最好的結合形式動畫OP和ED，而以遊戲為例就是原聲帶、OST，只是要把流行作品理解成MV的作用，但不只是MV，而是一種更強的MV。 我會有這想法的核心原因是，動畫、遊戲、電影、劇集和音樂相比的總量少很多，每天有無數的獨立音樂人在Youtube上傳內容，而且基礎的音樂水平和工具都已經非常好，除非作品強到像Tim Henson、Ichika Nito那樣，否則不太可能被看到，但動畫、遊戲、電影、劇集不一樣，雖然數量也多到難以被同一個人觀映完，但是和音樂相比，那數量還是等比級數 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -837,8 +867,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2860/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2935,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2860/revisions/2935"
           }
         ],
         "wp:attachment": [
@@ -872,7 +908,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -908,8 +944,8 @@
       "guid": {
         "rendered": "https://oxoi3.wpcomstaging.com/?p=2855"
       },
-      "modified": "2026-05-05T12:40:22",
-      "modified_gmt": "2026-05-05T04:40:22",
+      "modified": "2026-07-06T16:20:47",
+      "modified_gmt": "2026-07-06T08:20:47",
       "slug": "%e6%b8%ac%e8%a9%a6%e7%9f%ad%e6%96%87",
       "status": "publish",
       "type": "post",
@@ -922,7 +958,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>我在試着寫一個自己的 Blog。目前打算用 WordPress 後台來管理文章。這篇應該會先放在短文欄位。短文 [&hellip;]</p>\n",
+        "rendered": "<p>我在試着寫一個自己的 Blog。目前打算用 WordPress 後台來管理文章。這篇應該會先放在短文欄位。短文欄位的用途，主要是放一些比較零散、但又不想直接丟掉的內容。例如開發時遇到的小問題、臨時想到的設計想法、看作品時的一些感想，或者單純只是某個之後可能會用到的筆記。這些內容不一定適合寫成完整文章。有些想法其實還太早，現在硬要整理成長文，反而會花太多時間。所以先用短文的形式記下來，應該會比較實際。之後如果發現某些內容可以再展開，就再整理成正式文章。如果沒有，也可以單純當成日常記錄。我希望這個 Blog 之後可以分成兩種內容。長文用來放比較完整的整理，例如作品分析、開發筆記、技術文章之類。短文 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -985,8 +1021,14 @@
         ],
         "version-history": [
           {
-            "count": 0,
+            "count": 1,
             "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2855/revisions"
+          }
+        ],
+        "predecessor-version": [
+          {
+            "id": 2936,
+            "href": "https://wordpress.dec-oxoi.com/wp-json/wp/v2/posts/2855/revisions/2936"
           }
         ],
         "wp:attachment": [
@@ -1020,7 +1062,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1070,7 +1112,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>依照慣例來聊聊想這篇文章的動機，最近在看《現在宅知道》的時候，聽到六嘆在節目裡談到最近橫尾太郎會執筆新版本的《 [&hellip;]</p>\n",
+        "rendered": "<p>依照慣例來聊聊想這篇文章的動機，最近在看《現在宅知道》的時候，聽到六嘆在節目裡談到最近橫尾太郎會執筆新版本的《新世紀福音戰士》動畫的劇本的新聞時，他提到了一個有趣的話題—EVA是一個很哲學的作品，這當然是一個有老生長談的概念，但因為當年在接觸EVA時還是比較早期，當時接觸的哲學領域的內容還是比較少的，所以我還真沒認真思考過這個問題。然而，換到了現在的時間點，或許還真的很值得重新審思這個問題—EVA究竟是不是哲學作品？以及聊聊在我眼中，EVA究竟是如何的故事。 EVA不是哲學作品 在此直接開門見山的說我的結論—不是，儘管這觀點很反直覺，但我在思考後得出的答案正是如此，而且不把EVA定義成哲學作品 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -1168,7 +1210,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1218,7 +1260,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>自從數個月前Steam大特賣把《女神異聞錄》系列都入手之後，現在可以說是被《女神異聞錄》洗了腦，看任何東西第一 [&hellip;]</p>\n",
+        "rendered": "<p>自從數個月前Steam大特賣把《女神異聞錄》系列都入手之後，現在可以說是被《女神異聞錄》洗了腦，看任何東西第一瞬間想的都是「這不就是《女神異聞錄》說的嗎？」。我有一個壞習慣是，我會很主動去避免一些我很有可能陷太深的作品，原因在於每當我投入在這種作品時都會不停在自己腦子裡跑出各種思考和感受，如果在這種情況下去看下一部作品，又會覺得自己的思考和感受會被覆蓋，總覺得就像失去了什麼重要的事物一樣。這也是我會習慣在完結一個作品後寫文章的原因，好好的把當下的自己紀錄下來。 但是《女神異聞錄》的情況卻有些不同，因為想寫的內容實在太多了。從《女神異聞錄 3 Reload》裡對向死而生的進一步感觸，到《女神異聞 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -1316,7 +1358,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1366,7 +1408,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>前陣子在看《SPY x FAMILY》，在故事裡有一段情節是黃昏在回想他成為情報員前的生命歷程，當黃昏在戰爭的 [&hellip;]</p>\n",
+        "rendered": "<p>前陣子在看《SPY x FAMILY》，在故事裡有一段情節是黃昏在回想他成為情報員前的生命歷程，當黃昏在戰爭的仇恨狂熱中無法自拔時，他遇上了後來友人—弗朗基。而兩人初見面的過程中，出現了一段很有趣的對話。在對話裡，透露了弗朗基(或是作者遠藤達哉)對戰爭的一種理解，而這種理解我認為非常有討論價值。 弗朗基提出了一觀點，曾經有一個實驗，實驗團隊分別給一群受測者觀看一部存在暴力行為的影片，而在這一群受測者裡普遍會存在對暴力行為的回避、恐懼的情緒；相反，實驗團隊另外給另一群受測者觀看一部存在暴力行為，但補上「被施暴者其實有外遇行為」這個被施暴的理由，那受測者裡對對暴力行為的回避、恐懼的情緒會大幅下降， [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -1464,7 +1506,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1514,7 +1556,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>會想寫一篇超譯《鏈鋸人》的文章，其靈感來源於之前看了超粒方關於《鏈鋸人》的影片引起了我一些思考，所以想紀錄一下 [&hellip;]</p>\n",
+        "rendered": "<p>會想寫一篇超譯《鏈鋸人》的文章，其靈感來源於之前看了超粒方關於《鏈鋸人》的影片引起了我一些思考，所以想紀錄一下。首先，我還是頗喜歡超粒方的影片，尤其是他先前講電影新浪潮和導演電影的那部，對我啟發性很大，這是我一直以來都很少接觸的角度，但必須說超粒方在電影以下的範疇實在不太是他的強項。包括他講帕魯的影片裡就引用了凱恩斯主義來描述勞動，而當然的凱恩斯主義是和勞動毫無關係的，凱恩斯主義的核心是在講公權力在經濟發展上的角色，例如實行擴張/緊縮性政策、央行的利率、貨幣供應等問題，要把勞動和凱恩斯主義是的確有點勉強。而超粒方在影片裡也把《鏈鋸人》和荒謬主義連結，的確，我也認同《鏈鋸人》有一些荒謬主義色彩在 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -1612,7 +1654,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1662,7 +1704,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>這篇文章是隨筆系列的第一篇文章，在過去寫的超譯系列文章大多是字數較多且論述密度較高的作品。只不過，這做法經常會 [&hellip;]</p>\n",
+        "rendered": "<p>這篇文章是隨筆系列的第一篇文章，在過去寫的超譯系列文章大多是字數較多且論述密度較高的作品。只不過，這做法經常會花過多時間才能完成，而且也很難紀錄一些較零散、無法形成完整論述的想法，所以未來一部分的內容都會寫在隨筆系列。這系列也會減少文章的結構完整性，以方便更快完成文章以及想法的整理。只不過，暫時還沒有太摸清兩個系列的差異，像是本篇文章也還像在進行超譯，只能邊做邊想了。 首先，正如我在SNS上說的，我最近非常沉迷在《女神異聞錄》系列，尤其是《女神異聞錄5》帶給我非常多啟發，至於《死魂曲》則是另一個我非常喜歡的遊戲系列，這兩個系列存在一個明顯的特色—便是都以強烈的風格化美術聞名。然而最近，在一些日 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -1760,7 +1802,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1810,7 +1852,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>《鐵血的孤兒》最近迎來了十週年，只感嘆一下時間這得這麼快，IBO大概是Gundam史上評價最兩極化的作品，不喜 [&hellip;]</p>\n",
+        "rendered": "<p>《鐵血的孤兒》最近迎來了十週年，只感嘆一下時間這得這麼快，IBO大概是Gundam史上評價最兩極化的作品，不喜歡的人嘲諷至極、視為Gundam系列的黑歷史，喜歡的人視為瑰寶、認為是Gundam系列的創新之作，而我作為網路評價逆風協會榮譽理事長，我當然是毫不在乎外界意見地給予《鐡血的孤兒》高評價。不開玩笑的說，儘管我也非常喜歡其他的Gundam作品，無論是UC系列、平成三部曲、Seed、00、或是最新的水星的魔女和Gquuuux，但《鐡血的孤兒》卻仍然是我最難以割捨一作，或許可以在十週年之際來談談我對IBO的想法。 只不過，我其實對從哪裡開始談起有些困惑，從故事嗎? 人物? 似乎都有些難以表達自 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -1908,7 +1950,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -1958,7 +2000,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>最近才終於破關了買了很久卻沒玩的《AI : 夢境檔案》一和二代，必需說這真的是本年度玩得最開心的遊戲，至破關以 [&hellip;]</p>\n",
+        "rendered": "<p>最近才終於破關了買了很久卻沒玩的《AI : 夢境檔案》一和二代，必需說這真的是本年度玩得最開心的遊戲，至破關以來在公司上班期間都在耳邊Loop着兩代遊戲的主題曲「Invincible Rainbow Arrow」和「Half to Whole」，就好像和Mizuki、Date等人的大冒險還沒結束一樣。相比起主流遊戲常有的黑暗、嚴肅、中二病的氛圍，《AI : 夢境檔案》選擇走了一條截然不同的道路，以一定程度的日式搞笑加上日式刑警劇的形式呈現一個充滿歡笑和喜悅的「刑警偵訊」。因此，這次我也想試着寫寫看久久沒寫過的評價文，來看看製作人打越鋼太郎究竟是想帶來如何的作品，以及我如何理解《AI : 夢境檔 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2056,7 +2098,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2106,7 +2148,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>汝將若雷霆之歸，諸方萬邦咸慶汝威，率土滄溟、八荒穹蒼，皆沐於子之餘光。 You will come as a  [&hellip;]</p>\n",
+        "rendered": "<p>汝將若雷霆之歸，諸方萬邦咸慶汝威，率土滄溟、八荒穹蒼，皆沐於子之餘光。 You will come as a lightning. The country will have feastThe sea, the earth and the sky. In your light 在鄂圖曼帝國蘇丹穆罕默德二世的王之劍「耶尼切里軍團」的步步近逼之下，即使可以投降，即使可以逃亡，但到了最後依然寸步不讓，褪下皇帝的長袍，穿上戰士的鏈甲，向着不敗的敵人衝鋒，為腐敗的拜占庭帝國挽回了最後的顏面，他就是拜占庭帝國最後的一位皇帝 — 君士坦丁十一世。現代希臘作曲家Stamatis Spanoudakis寫了一首 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2204,7 +2246,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2254,7 +2296,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>東京喰種大概是我人生中第一部完整看完的長篇漫畫。作為我個人的入門作，東京喰種一直在我生命中有着很有趣的地位。我 [&hellip;]</p>\n",
+        "rendered": "<p>東京喰種大概是我人生中第一部完整看完的長篇漫畫。作為我個人的入門作，東京喰種一直在我生命中有着很有趣的地位。我喜歡故事裡的掙扎，我喜歡角色們的個性，我也喜歡東京喰種那中二的青年漫味道。但有時候總覺得在東京喰種這作品裡似乎少了些什麼 ? 少了一些理解。我似乎並不是由心地理解東京喰種，我也似乎並不是由心地認識這個故事。如果要我用一句話去詮釋東京喰種這個故事，除了中二病和戲謔的語言之外，我還真的無法好好解構這個故事。 直到我有一天發神經研究了不少基督教道德的內容，我卻神奇地對東京喰種這部老生長談的作品有了新的體會。東京喰種在我眼裡不再是一部簡單的中二青年漫，而是一部以青年漫為包裝的現代罪與罰。 誤解 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2352,7 +2394,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2402,7 +2444,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>我對《地。關於地球的運動》的第一印象實在不算多好，畢竟當一堆人在說着作者魚豊是天才，這詞聽着就有點刺耳，然而奇 [&hellip;]</p>\n",
+        "rendered": "<p>我對《地。關於地球的運動》的第一印象實在不算多好，畢竟當一堆人在說着作者魚豊是天才，這詞聽着就有點刺耳，然而奇妙的是，在我看了《地。》的前幾集之後，我唯一的感想就是「這作者是天才」。如果要論說故事的水平，這作品未必比得上浦澤直樹 ; 要論奇想，玩弄觀眾感受，比不上這幾年大紅的藤本樹 ; 要論畫技，他也比不上三蒲建太郎、井上雄彦。但是，魚豊卻做到了三個關鍵，三個漫畫家或小說家或編劇家都應該做到，但大多數的人都做不到的關鍵要素。一是合理、明確且清晰的故事的前提，二是為這個前提給出一個明確的答案，三是用角色為這個前提和答案搭建一條橋樑。聽着簡單，但實際上大多數作品都做不到這三點，或者只完成得了一或二 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2500,7 +2542,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2550,7 +2592,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>這系列文章的開端，必須要講一下兩個有關演算法的專有名詞，分別是時間複雜度(Time Complexity)和大 [&hellip;]</p>\n",
+        "rendered": "<p>這系列文章的開端，必須要講一下兩個有關演算法的專有名詞，分別是時間複雜度(Time Complexity)和大O記號(Big O Notation)，雖然是兩個名詞，但實際上是同一個概念，那便是「該如何描述針演算法的速度」呢? 如何形容程式的效能 首先要祛魅在遊戲圈一個非常氾濫的錯誤觀念，那便是「CPU 效能被榨乾」，每當出現比較複雜的場景時，很多玩家都喜歡說這句話，但實際上CPU的效能根本不可能被榨乾，因為同一個型號CPU的運算一單元的速度必然是均等且不變的，並不存在什麼「畫面有越多東西，CPU就跑越快」，無論是計算一加一等於多少，還是要計算角色的行為樹，同一型號的CPU都是在以一樣的速度在 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2648,7 +2690,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2698,7 +2740,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>數據結構的組成 數據結構主要由元素和容器和組成，元素是指在數據結構裡每一個被裝載的物件，容器則是數據結構裡裝載 [&hellip;]</p>\n",
+        "rendered": "<p>數據結構的組成 數據結構主要由元素和容器和組成，元素是指在數據結構裡每一個被裝載的物件，容器則是數據結構裡裝載數據的記憶體/容量空間抽象化描述，但相反的也可以理解成數據結構這抽象化詞彙去抽象化的實例，有趣的是為了把多個元素組成一個數據的集合，元素和元素之間都需要連接在一起，而元素連接的條件則是不同數據結構之間的最大差異。 數據結構的分類 要開始深入解釋各種數據結構之前，要先解釋一下數據結構的不同類型。數據結構的分類主要分成兩種不同的屬性 : 什麼是線性和非線性的數據結構 ? 如名字所示，數據結構是多個數據的集合，但問題在於當數據多於一個時，數據與數據之間應該保持什麼關係，如何連接在一起，使其成 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2796,7 +2838,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2846,7 +2888,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>演算法和數據結構可以說是邁向進階編程的第一步，無論你參與過多少個專案，只要對數據結構沒有一定程度認識，都絕對不 [&hellip;]</p>\n",
+        "rendered": "<p>演算法和數據結構可以說是邁向進階編程的第一步，無論你參與過多少個專案，只要對數據結構沒有一定程度認識，都絕對不可能叫自己資深IT從業者，這些針對數據結構知識的應用範疇非常廣，只要和數據有關的事物都與演算法與數據結構有關，從編寫程式、遊戲、管理數據庫、嵌入式編程等，其實幾乎是和電腦有關的一切都會用到演算法與數據結構，因此在此希望用一系列文章，大致順清楚一些演算法和數據結構相關的知識，以便自己回顧，同時也方便有興趣學習相關知識者了解演算法和數據結構。先前已經寫過演算法和數據結構相關主題的內容，但內容稍嫌雜亂，希望重新以更清晰一點的方式講一講關於演算法與數據結構的那些事。 未來文章</p>\n",
         "protected": false
       },
       "author": 1,
@@ -2944,7 +2986,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -2994,7 +3036,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>Programs, after all, are concrete formulations of abstr [&hellip;]</p>\n",
+        "rendered": "<p>Programs, after all, are concrete formulations of abstract algorithms based on particular representations and structures of data. —&nbsp; Niklaus Wirth 已故Pascal的開發者Niklaus Wirth曾着有一書，名叫《Algorithms + Data Structures = Programs》，意指一切程式都是由演算法和數據結構組成，只要了解演算法和數據結構，你便能了解一切的電腦程式。 既然演算法和數據結構如此重要，那什麼是演算法，什麼又 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -3092,7 +3134,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -3142,7 +3184,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>雖然標題是C++ 自分用新手筆記，但實際上內容和C++和亂數並沒有什麼實際聯繫，主要是我個人在測試與學習噪音( [&hellip;]</p>\n",
+        "rendered": "<p>雖然標題是C++ 自分用新手筆記，但實際上內容和C++和亂數並沒有什麼實際聯繫，主要是我個人在測試與學習噪音(Noise)的一些筆記和心得，如果再開一個標題可能會太混亂，因此依舊放在C++ 自分用新手筆記進階亂數裡。而且由於我實在沒有太多時間寫文章，內容不會太細節到實務層面，這些部分以後有空再整理。 在上一篇文章裡，講了兩種基礎的亂數分佈模式，分別是「均勻分佈」和「常態分佈」。這兩種分佈的亂數已經能在程式設計和遊戲設計上實現不少內容，但要如何利用這些亂數來實現更加複雜的內容，例如Minecraft等遊戲的隨機地圖等機制就是一個更複雜的問題。 無論是均勻分佈和常態分佈的亂數都存在一個屬性使它無法 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -3238,7 +3280,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -3288,7 +3330,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>亂數在遊戲開發中是十分重要的一環，為了使遊戲的內容更不可預測，大多遊戲開發都會在設計上加入亂數來控制各項參數， [&hellip;]</p>\n",
+        "rendered": "<p>亂數在遊戲開發中是十分重要的一環，為了使遊戲的內容更不可預測，大多遊戲開發都會在設計上加入亂數來控制各項參數，大的有像Mineraft那樣的隨機地圖生成，小的有像每個NPC的行為模式等。關於每個NPC的行為模式的例子，我也不太確定能不能公開談太詳細，但像先前被泄漏的GTA V源代碼裡就可以看到遊戲裡每個NPC其實都有一個隱藏且隨機的勇氣值，而這個勇氣值就會決定不同NPC面對玩家的危險行為有什麼反應，例如，高勇氣值的NPC會拿起槍反擊，而低勇氣值的NPC則會溜之大吉，而有些則會報警。 試想想遊戲裡的NPC所有人對玩家的反應都相同的話，整個世界會多死氣沉沉，可以說亂數充斥着遊戲源代碼的各處，也是開 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -3386,7 +3428,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -3436,7 +3478,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 最近去了戲院看Seed Freedom，電影不錯看，關於電影的評價在此就先按下不表了，畢竟這不是本文的主 [&hellip;]</p>\n",
+        "rendered": "<p>引言 最近去了戲院看Seed Freedom，電影不錯看，關於電影的評價在此就先按下不表了，畢竟這不是本文的主題。電影結束後，我在Youtube上看了一些Seed Freedom內容補充影片，看了留言才知道原來Gundam社群在討論是命運計劃是不是正確的，害我也忍不住想發表一下看法。首先，我就開門見山的表明我的立場 : 認同命運計劃的人可以去讀一讀共產主義的歷史。 可以看看這些反自由的理想烏托邦最後是什麼下場。 正文 其實議長vs基拉是一個很淺又很老掉牙的政治哲學問題。 也就是政治光譜中的古典左vs古典右，議長是古典左派，而基拉是古典右派。 (總覺得類似的文字，以前在談Dr. Stone的時候 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -3539,7 +3581,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -3589,7 +3631,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>&nbsp; 引言 &nbsp;&nbsp; &nbsp;輕脆的鋼琴中音，以及由urara唱出的那聖詩般的Vo [&hellip;]</p>\n",
+        "rendered": "<p>&nbsp; 引言 &nbsp;&nbsp; &nbsp;輕脆的鋼琴中音，以及由urara唱出的那聖詩般的Vocal，像極了一首悠揚又哀傷的絻歌，這首絻歌為這部動人又短暫的映畫寫下了最後的終止符，也為了京本那溫柔又細膩的靈魂做了最為誠摯的哀悼，此時此刻電影院裡沒有人提早離開，所有人都仍然浸淫在作品給予我們的情感一般，直到藤野離去座位，開始她的新生活。 &nbsp;&nbsp; &nbsp;無疑的，這五十八分鐘的體驗是我最近幾個月以來最難忘的五十八分鐘。 &nbsp; 為什麼要畫畫 ? &nbsp; &nbsp; &nbsp; 「為什麼要畫畫 ? 」電影結束後，我試着學習藤野步一樣，問自己這個問 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -3694,7 +3736,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -3744,7 +3786,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>抽象化     如果想要進行遊戲開發，首當其衝的是遊戲引擎的部分，但在談起遊戲引擎前，就要先正一下視聽，淺談一 [&hellip;]</p>\n",
+        "rendered": "<p>抽象化     如果想要進行遊戲開發，首當其衝的是遊戲引擎的部分，但在談起遊戲引擎前，就要先正一下視聽，淺談一下什麼是遊戲引擎。     之所以想特別談這個話題是因為幾年前我在Youtube上看到一個遊戲的專題影片談到遊戲引擎，該Youtuber認為引擎這個名字並不符合遊戲引擎在遊戲開發的角色，遊戲引擎應該更類似於一個編輯器。然而這說法顯然並不準確，而且還存在一定程度的困惑性。 要認識所謂的遊戲引擎前，就必須先了解在Computer Enginnering裡的一個專有名詞，叫做「Abstraction」，一般譯作「抽象化」，這個詞彙源自於英國哲學家法蘭西斯‧培根的着作中，它的意義在於把多個概念 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -3847,7 +3889,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -3897,7 +3939,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 視野檢測是遊戲開發中的基礎課題，從戰鬥到潛行，進行視野檢測都是十分重要的一門技術。由於我在上班途中，閒閒 [&hellip;]</p>\n",
+        "rendered": "<p>引言 視野檢測是遊戲開發中的基礎課題，從戰鬥到潛行，進行視野檢測都是十分重要的一門技術。由於我在上班途中，閒閒沒事做了幾張圖，所以順便寫一篇短文來紀錄一下。 視野 首先，需要一個進行視野檢測第一關的多邊形，一般會被叫做視野錐體。但其實任何類型的碰撞方塊(Collision Shape)都能實現同樣的效果，重要的只是確定玩家是否存在於視野範圍內。只不過，因為圓形或扇形的檢測更快，時間複雜度更低，因此，推薦使用圓形或扇形作為視野錐體的碰撞方塊。 當玩家的人物在被視野錐體檢測到，視野檢測會進入的第二關。在第二關的視野檢測會發射一個Raycast，以檢測玩家是否被物件阻擋。部份更複雜的3D遊戲會發出多 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4002,7 +4044,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4052,7 +4094,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>從開始寫Blog也不知不覺一、兩年了，當年剛開始寫文章的時候，就寫了一篇以無職轉生為題的文章，現在也是時候回歸 [&hellip;]</p>\n",
+        "rendered": "<p>從開始寫Blog也不知不覺一、兩年了，當年剛開始寫文章的時候，就寫了一篇以無職轉生為題的文章，現在也是時候回歸初心，不然有了Ch.1卻一直沒有Ch.2也是很奇怪。但問題在於要寫什麼好 ? 寫評論嗎，但現在第三季也不知道什麼時候出，也不知道要寫什麼，寫人生經歷嗎，好像也沒有什麼好寫的。最後想着不如試着從不同的角度重新解構一下這個故事，順便回答一下「為什麼要到異世界才要努力?」這個老生長談的老問題，並為此寫下一個我個人的最終答案。 只不過，如果要深究「為什麼要到異世界才要努力?」，你會發現這可是一個涉及文學手法以及如存在主義、尼采等不少的哲學概念的高度複雜化的話題，如果更好的聊它，不如作為入門，我 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4150,7 +4192,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4200,7 +4242,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言     Godot Engine 4 能夠使用C++來編寫與自訂Node的行為的方式名為GDExtens [&hellip;]</p>\n",
+        "rendered": "<p>引言     Godot Engine 4 能夠使用C++來編寫與自訂Node的行為的方式名為GDExtension，對於喜歡C++這門語言，但又不想from scratch重寫一個遊戲引擎的獨立開發者來說可以說是一大福音，畢竟能使用C++作為Scripting語言的遊戲引擎的確不多，要不然就是能使用C++作為Scripting語言但Users base卻非常小，能找到的技術支援也不多，要不然就是要用Unreal Engine，但我相信使用過Unreal的人都能了解，其臃腫的程度對一個獨立開發者而言絕對是一個困擾。     而Godot Engine作為一個近期發展快速、且社群龐大的新晉引擎， [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4307,7 +4349,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4357,7 +4399,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 物件導向編程的語言例如 : C#、Java等都會有不少修飾元( Modifier )關鍵字，但對初學者而 [&hellip;]</p>\n",
+        "rendered": "<p>引言 物件導向編程的語言例如 : C#、Java等都會有不少修飾元( Modifier )關鍵字，但對初學者而言可能有點太過複雜，本文在於用簡單方式介紹幾個修飾元。 1. static     此修飾元用在類別和函式上，static類別是指不用被實例化(Instancing)成物件的情況下也能使用的類別，能夠從代碼中任何一個角落被調用，可以直接想像成一個直接被實例化在Global Scope的類別。 2. abstract     此修飾元用在類別上，abstract類別是所有類別繼承關係中最底層的一環，也就是用來「被繼承」的類別。abstract類別不能被實體化，也不能被直接調用。唯有的用途 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4455,7 +4497,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4505,7 +4547,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>#引言 上一篇文章寫了關於無庫的CMake編譯方式，而次要寫的是補完CMake編譯出函式庫的方法以及函式庫使用 [&hellip;]</p>\n",
+        "rendered": "<p>#引言 上一篇文章寫了關於無庫的CMake編譯方式，而次要寫的是補完CMake編譯出函式庫的方法以及函式庫使用方式。 #函式庫的目的 &nbsp;&nbsp; &nbsp;前情提要一下，在上一篇文章中我寫了關於如何使用CMake直接編譯C++源代碼，簡明扼要的說就是要把一組一組的.cpp與.hpp都組合編譯成.o檔，再把所有的.o檔連結在一起，便完成最終可執檔的編譯。這個方法固然方便且簡單，然而這個方法也存在不少的問題，例如如果我要把部分我寫的函式公開給其他人使用，但又不想透露我的源代碼給別人知道的話，那麼把該些函式的.cpp與.hpp等檔案給別人顯然並非一個有效的做法。比較簡單的做法會是把一 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4603,7 +4645,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4653,7 +4695,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>#引言     CMake 是學習C++的一大課題，C++與其他高階語言的最大差異不在於Syntax，而在於編 [&hellip;]</p>\n",
+        "rendered": "<p>#引言     CMake 是學習C++的一大課題，C++與其他高階語言的最大差異不在於Syntax，而在於編譯方式。 現今主流的程式語言，無論是編譯語言還是直譯語言，運行的過程都十分簡單，例如C#的編譯只需要一句dotnet build便完成了編譯，而python也只需要一句python main.py就搞定了。     而相反的C++的編譯步驟卻十分繁複，首先要把源代碼都編譯一遍，然後再把編譯出來的物件再連結至執行檔，才可以完成完成編譯，一個比較複雜的專案一次編譯的指令可能都要用到上百個字以上。而為了方便處理這些複雜編譯過程Make出現了，為了方便生成Make檔CMake出現了。      [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4751,7 +4793,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4801,7 +4843,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>&nbsp;&nbsp; &nbsp; 最近在練習C++的編寫，不得不說其複雜度、學習曲線都比C#和pytho [&hellip;]</p>\n",
+        "rendered": "<p>&nbsp;&nbsp; &nbsp; 最近在練習C++的編寫，不得不說其複雜度、學習曲線都比C#和python等較高階的語言都來得高上不少，尤其是編譯更是複雜到難以想像，光是Link來Link去就快要腦溢血了。在此寫一部分學習過程的心得作為紀錄。&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; 首先，我遇上的第一個難題便是Pointer。Pointer指針在我先前較為熟稔的語言，如C#和python都存在，只不過和C++相比的確比較少被使用。當然回到Pointer上，其概念並不複雜，一言而蔽之便是一種裝載變數位址的變數，但最一開始學習時卻奇妙的無法直覺的理解它。     當中 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -4904,7 +4946,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -4954,7 +4996,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>Godot引擎的shader language是Godot引擎中一個十分強力的工具， 透過編寫shader s [&hellip;]</p>\n",
+        "rendered": "<p>Godot引擎的shader language是Godot引擎中一個十分強力的工具， 透過編寫shader script在GPU的渲染層面影響2D或3D圖形繪製的結果， 能實現的效果十分多樣，例如樹/草的擺動、水面的波動等等。 由於現階段我較常接觸的是2D的shader，因此本文也會較多集中在2D上， 而本文使用的為4.1.3 stable Godot，不同版本的Godot可能會有不同的語法。 首先，學習shader language中最關鍵的關注點為三 : 一、fragment函式 二、vertex函式 三、uniform變數 一和二的fragment函式和vertex函式在shader s [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5055,7 +5097,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -5105,7 +5147,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 今天早上，我的某位電腦科學專業、高學歷的上司傳了一段SQL碼，是關於一個每日報告的數據擷取程序。然而，該 [&hellip;]</p>\n",
+        "rendered": "<p>引言 今天早上，我的某位電腦科學專業、高學歷的上司傳了一段SQL碼，是關於一個每日報告的數據擷取程序。然而，該段SQL碼的運行速度可以說是十分感人，簡單的一萬多行數據跑三分鐘，而且還想在Production App正使用的SQL Server上運行，大概是怕公司發展太順利會忘記危機感，要給公司點挑戰。 因此，熱愛公司的我重新寫了一遍該段SQL碼，把三分鐘硬是壓低到一秒。 此文會紀錄一下我改了些什麼，以及可以從什麼角度嘗試對SQL碼優化。 由於安全問題，不會用到真實的例子(跑三分鐘的那段)。 最後，本文會涉及部分大O符號或數據結構的知識，沒學過的可以去我的舊文看一下， 如果覺得我寫的太亂，也可以 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5210,7 +5252,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -5260,7 +5302,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>雖然有點晚，但最近終於把Sweet Home的影集第一季看完了。 作品前期的壓迫感十分強烈，頗有死魂曲加上沉默 [&hellip;]</p>\n",
+        "rendered": "<p>雖然有點晚，但最近終於把Sweet Home的影集第一季看完了。 作品前期的壓迫感十分強烈，頗有死魂曲加上沉默之丘的既視感。 同時有死魂曲的狹小空間面對不死怪物的壓力， 同時又要面對沉默之丘的心理恐怖怪物。 只是不知怎麼的影集版後期的怪物很少出現，我都差點以為世界是不是已經恢復了。 尤其是第二季還硬要加入一大堆軍事故線，看着也是怪尷尬的， 回去看了漫畫內容才知道那堆詭異的劇情線都是影集原創內容。 至於Sweet Home的原作的部分，雖並不能算太過完美的，與同類型漫畫相比也有不少不足的地方， 例如不少配角角色都有點過於平面，老梗也是用不少。 但在怪物設定上的確值得玩味，怪物因欲望而生，而只要是 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5359,7 +5401,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -5409,7 +5451,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>隱私權與言論自由、集會自由等天賦權利通常會被一起歸納為普世價值。然而，社會主流意見對隱私權的保護和支持遠沒有和 [&hellip;]</p>\n",
+        "rendered": "<p>隱私權與言論自由、集會自由等天賦權利通常會被一起歸納為普世價值。然而，社會主流意見對隱私權的保護和支持遠沒有和對其他權利的保護和支持一樣理所當然，「如果沒有隱私能讓社會更安全，有何不可 ? 」有時也會聽到類似的觀點。不可否認，這觀點難以反駁，比起抽象的隱私，治安是更觸手可及的事物。 但近期發現了一個職場上的事實，令我對上述觀點有了不太一樣的看法。 最近公司和我同一部門的人陸續走了好幾人，原本人就少的可憐的部門現在到了可以差不多準備熄燈的程度。他們離開的原因大多都是對新上司和新高層的不滿以及被過度施壓的情況，也有對新職位的不滿，而後我與這些離開或準備離開的人聊一下才知道原來不同同事被上司或高層施 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5508,7 +5550,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -5558,7 +5600,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 在2024年元旦離世的電腦科學家尼克勞斯·埃米爾·維爾特( Niklaus Emil Wirth )，亦 [&hellip;]</p>\n",
+        "rendered": "<p>引言 在2024年元旦離世的電腦科學家尼克勞斯·埃米爾·維爾特( Niklaus Emil Wirth )，亦即Pascal 語言的主設計師，他在1976年曾着有一書，可以說是奠基了數據導向編程的大方向。 很可惜的我暫時還未讀過這本書，在此引用此書的原因單純只因為它的書名 : 「Algorithms + Data Structures = Programs」。 數據結構可以說是一個對不少初階到中階開發者都既熟識又陌生的名字，幾乎每本編程教學的書都會提到它，但幾乎每一個讀這些書的新人們都會把它跳過，畢竟對基礎開發而言它的幫助的確不大，但如果開發的目的產物是需要高效能、高運算速度的話，那數據結構可 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5663,7 +5705,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -5713,7 +5755,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>介紹   圓形與多邊形的碰撞檢測有多個解決方案。 例如計算重疊面積、逐邊進行檢查是否與圓周碰撞等等。 不同的S [&hellip;]</p>\n",
+        "rendered": "<p>介紹   圓形與多邊形的碰撞檢測有多個解決方案。 例如計算重疊面積、逐邊進行檢查是否與圓周碰撞等等。 不同的Solution有不同的效能表現、時間複雜度以及編寫的難度。 以下是一個自己近期想出來的檢測的方式，不知道是否有其他人也寫過類此的檢測方式。   一、點 與 多邊形 碰撞檢測 (這是網路找到的方法) 已知點 O        多邊形 I 頂角 為 A、B、C、D、E 如何證明點 O 在 多邊形 I 內 ?   步驟 : 1. 把多邊形 I 的頂角以兩個分組，結果應為AB、BC、CD、DE、EA。 2. 把各組頂角加入點O，使其成為三角形，結果應為△ABO、△BCO、△CDO、△DEO、△ [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5818,7 +5860,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -5868,7 +5910,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>1. One For loop vs Multi For loop  以下為C#代碼:         pub [&hellip;]</p>\n",
+        "rendered": "<p>1. One For loop vs Multi For loop  以下為C#代碼:         public static void Main(){            var watch = System.Diagnostics.Stopwatch.StartNew();            for(int i = 0; i &lt; 100000;i++){                Console.WriteLine(&#8220;1 : &#8220;+i);                Console.WriteLine(&#8220;2 : &#8220;+i);                Console. [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -5966,7 +6008,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -6016,7 +6058,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 之前才說要多寫內容，結果上一篇文章已經是上上個月的事，而技術相關的更是完全沒靈感，每天忙東忙西的。有時候 [&hellip;]</p>\n",
+        "rendered": "<p>引言 之前才說要多寫內容，結果上一篇文章已經是上上個月的事，而技術相關的更是完全沒靈感，每天忙東忙西的。有時候不禁在想自己究竟在做什麼，每天為公司賣命，結果待遇也是不過爾爾，年尾升職也是沒了影。公司虐我千百篇，我待公司如初戀，所謂的奴性就是如此吧。 事業上雖然各種不如意，但也總有些好事情，例如進巨的結局雖然很多人不滿意，但我倒是看得很快樂，Armin和Eren的擁抱也是哭瞎了我的雙眼；蒼鷺與少年也是一段很有意思的冒險。 還有就是Dr Stone 的第三季播出。 不得不說，動畫的水平比起上兩季都差上不少(雖然之前也沒多好)，畢竟DrStone也不是什麼大IP。兩季播出後，也可以看出商業價值可以算 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -6121,7 +6163,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -6171,7 +6213,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言     我還很記得那是一個炎熱的初中暑假，一個人待在了自己房間，唯有的陪伴的是黑暗中LCD螢光幕的背光和 [&hellip;]</p>\n",
+        "rendered": "<p>引言     我還很記得那是一個炎熱的初中暑假，一個人待在了自己房間，唯有的陪伴的是黑暗中LCD螢光幕的背光和舊式冷氣白噪音，那是一個恬靜中午，但我的心卻難以被安撫下來，因為在我面前的是我在經過了千辛萬苦後才得以拿到成果 —— 我用C語言和Visual Studio Printout出一個Hello World !的字串。          這一切的起點是「菲斯 Fez」，在2013年無人不知的遊戲。用着獨特的玩法和優雅的美術征服當時熱愛獨立遊戲的玩家。          當時的我只是個11歳孩子，腦中還在消化着老師要我們想的問題 : 未來想做些什麼 ?       揹着沉重的書包走回了家，在 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -6272,7 +6314,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -6322,7 +6364,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p> 影視心得 2023-08-28 #00001 | 主題 : 無職轉生 魔術與重生 (重雷慎入)        [&hellip;]</p>\n",
+        "rendered": "<p> 影視心得 2023-08-28 #00001 | 主題 : 無職轉生 魔術與重生 (重雷慎入)         《無職轉生》一部聽着不太有趣，但一看就上癮的輕小說。           在第二季動畫開播後就忍不住入手了26部文庫版小說，這也是我第一次入手電子書，日以繼夜地把魯迪烏斯的故事塞進自己久未開啟的腦袋。其實自高中的文青時期結束，已經有好一段時間沒有如此認真在讀小說，只是從未想過在人間失格和Catcher in the rye之後讀的竟是異世界轉生，這也是一種另類的成長嗎 ? 日不思夜不想、上班的途中、上廁所的途中，最終淪為了無情的讀書機器，然而在讀完了之後卻仍然是意猶未盡，就如同作了 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -6425,7 +6467,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -6475,7 +6517,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>引言 &nbsp; &nbsp; 雖然標題為初接觸，但其實已經用了一段時間。 &nbsp;&nbsp; &#038;nb [&hellip;]</p>\n",
+        "rendered": "<p>引言 &nbsp; &nbsp; 雖然標題為初接觸，但其實已經用了一段時間。 &nbsp;&nbsp; &nbsp;由於最近公司需要用到一些工具來自動更新PowerPoint中的表格數據，而認識到Pypptx。雖然公司希望我用UIPath來進行自動化。但畢竟是練習Python的機會，所以我最終還是自作主張地用Python寫。(畢竟UIPath學習曲線太短，學習Coding對未來更有幫助，只少我是這麼認為的) &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Python-PPTX的安裝如下 : pip install python-pptx import collection [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -6580,7 +6622,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -6630,7 +6672,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>編程學習筆記 2023-08-25 #00002  主題 : SQL中SubQuery的實用性探討 至初中學習 [&hellip;]</p>\n",
+        "rendered": "<p>編程學習筆記 2023-08-25 #00002  主題 : SQL中SubQuery的實用性探討 至初中學習編程開始，一直是以Indie Game Dev作為目標，持續地認為SQL對自己無太大幫助而幾乎都對其都是抱持忽視態度(我後來才知道SQLlite在開發遊戲上也頗有用處的)。 但近一年因為工作關係多接觸了SQL，亦開始有些心得，希望有機會可以分享，之後陸續都會有其他SQL相關的內容。 而最近習慣了用SubQuery處理大部分的SQL編寫，發現非常實用，決定以SubQuery為第一篇有關SQL的文章。 -SubQuery SubQuery概念十分簡單，在一個SQL語句中括號裡的Query便 [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -6733,7 +6775,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {
@@ -6783,7 +6825,7 @@
         "protected": false
       },
       "excerpt": {
-        "rendered": "<p>編程學習筆記 2023-08-25 #00001      主題 : C++ Dll編譯及Python調用基礎 [&hellip;]</p>\n",
+        "rendered": "<p>編程學習筆記 2023-08-25 #00001      主題 : C++ Dll編譯及Python調用基礎 由C++ 編譯至.dll，並以Python調用嘗試。         平台 : 22H2 Window 10         編譯器 : g++ 13.1.0 , Python 3.11.1         IDE : Visual Studio Code 1.80.0       測試內容為「把&#8221;Hello World ! &#8220;的C++ Function於Python 進行調用」。 i. dll編譯 最初的C++Script如下 :  #include usi [&hellip;]</p>\n",
         "protected": false
       },
       "author": 1,
@@ -6888,7 +6930,7 @@
             "id": 1,
             "name": "oxoi",
             "url": "https://wordpress.dec-oxoi.com",
-            "description": "",
+            "description": "oxcdbe@gmail.com",
             "link": "https://wordpress.dec-oxoi.com/author/oxoi/",
             "slug": "oxoi",
             "avatar_urls": {

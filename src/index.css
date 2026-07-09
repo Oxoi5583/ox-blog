@@ -89,3 +89,21 @@ code {
   padding: 4px 8px;
   background: var(--code-bg);
 }
+
+.develop-readme pre {
+  margin: 16px 0;
+  padding: 14px 16px;
+  overflow-x: auto;
+  border: 1px solid #d0d7de;
+  border-radius: 8px;
+  background: #f6f8fa;
+  text-align: left;
+}
+
+.develop-readme pre code {
+  display: block;
+  padding: 0;
+  background: transparent;
+  color: #24292f;
+  white-space: pre;
+}

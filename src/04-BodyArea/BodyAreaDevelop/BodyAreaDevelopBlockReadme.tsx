@@ -16,6 +16,7 @@ function BodyAreaDevelopBlockReadme({ p_index } : BodyAreaDevelopBlockReadmeArgs
 
     return (
         <div
+            className="develop-readme"
             style={{
                 maxHeight: '520px',
                 overflow: 'auto',

@@ -190,7 +190,7 @@
   align-content: flex-end;
 
   transform: scaleY(0);
-  transform-origin: top;
+  transform-origin: bottom;
   transition: transform 0.2s ease, border-radius 0.5s ease, background 0.05s ease-in;
 
   z-index: -1;

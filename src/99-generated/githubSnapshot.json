@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-09T07:01:55.371Z",
+  "generatedAt": "2026-07-09T09:04:32.845Z",
   "source": "https://api.github.com",
   "user": {
     "json": {
@@ -202,7 +202,7 @@
         "site_admin": false
       },
       "html_url": "https://github.com/Oxoi5583/DecDialogueEditor2",
-      "description": null,
+      "description": "An Open-Source Desktop Application Based on SDL3, OpenGL, DearImGUI And Some Free Library.",
       "fork": false,
       "url": "https://api.github.com/repos/Oxoi5583/DecDialogueEditor2",
       "forks_url": "https://api.github.com/repos/Oxoi5583/DecDialogueEditor2/forks",
@@ -242,13 +242,13 @@
       "releases_url": "https://api.github.com/repos/Oxoi5583/DecDialogueEditor2/releases{/id}",
       "deployments_url": "https://api.github.com/repos/Oxoi5583/DecDialogueEditor2/deployments",
       "created_at": "2025-10-06T05:05:50Z",
-      "updated_at": "2026-05-15T09:59:20Z",
+      "updated_at": "2026-07-09T08:56:28Z",
       "pushed_at": "2026-05-15T09:59:16Z",
       "git_url": "git://github.com/Oxoi5583/DecDialogueEditor2.git",
       "ssh_url": "git@github.com:Oxoi5583/DecDialogueEditor2.git",
       "clone_url": "https://github.com/Oxoi5583/DecDialogueEditor2.git",
       "svn_url": "https://github.com/Oxoi5583/DecDialogueEditor2",
-      "homepage": null,
+      "homepage": "",
       "size": 43429,
       "stargazers_count": 0,
       "watchers_count": 0,

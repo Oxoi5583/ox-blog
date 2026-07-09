@@ -13,10 +13,12 @@ interface BodyAreaDevelopBlockCodebaseArgs {
 }
 
 interface CodebaseTreeArgs {
+  indent: number;
   nodes: CodebaseNode[];
 }
 
 interface CodebaseNodeItemArgs {
+  indent: number;
   node: CodebaseNode;
 }
 
@@ -66,7 +68,7 @@ function countCodebaseFiles(nodes: CodebaseNode[]): number {
   }, 0);
 }
 
-function CodebaseNodeItem({ node }: CodebaseNodeItemArgs) {
+function CodebaseNodeItem({ indent, node }: CodebaseNodeItemArgs) {
   const [isExpanded, setIsExpanded] = useState(false);
   const [isHovered, setIsHovered] = useState(false);
   const hasChildren = isFolder(node);
@@ -93,6 +95,11 @@ function CodebaseNodeItem({ node }: CodebaseNodeItemArgs) {
           transition: 'background 0.15s ease, border-color 0.15s ease'
         }}
       >
+        <div 
+          style={{
+            width: indent * 5
+          }}
+        />
         {hasChildren ? (
           <button
             type="button"
@@ -137,13 +144,13 @@ function CodebaseNodeItem({ node }: CodebaseNodeItemArgs) {
       </div>
 
       {hasChildren && isExpanded && (
-        <CodebaseTree nodes={node.children ?? []} />
+        <CodebaseTree indent={indent + 4} nodes={node.children ?? []} />
       )}
     </li>
   );
 }
 
-function CodebaseTree({ nodes }: CodebaseTreeArgs) {
+function CodebaseTree({ indent, nodes }: CodebaseTreeArgs) {
   const sortedNodes = sortCodebaseNodes(nodes);
 
   return (
@@ -151,6 +158,7 @@ function CodebaseTree({ nodes }: CodebaseTreeArgs) {
       style={{
           maxHeight: '360px',
           overflow: 'auto',
+          scrollbarWidth: 'thin',
           border: '1px solid #e0e5ec'
       }}
     >
@@ -160,7 +168,7 @@ function CodebaseTree({ nodes }: CodebaseTreeArgs) {
         padding: 0,
       }}>
         {sortedNodes.map((node) => (
-          <CodebaseNodeItem key={node.path} node={node} />
+          <CodebaseNodeItem key={node.path} indent={indent} node={node} />
         ))}
       </ul>
     </div>
@@ -212,7 +220,7 @@ function BodyAreaDevelopBlockCodebase({ p_index }: BodyAreaDevelopBlockCodebaseA
           padding: '3px 3px',
         }}
       >
-        <CodebaseTree nodes={codebase} />
+        <CodebaseTree indent={4} nodes={codebase} />
       </div>
     </section>
   );

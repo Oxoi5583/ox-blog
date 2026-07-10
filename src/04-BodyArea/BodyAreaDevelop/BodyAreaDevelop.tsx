@@ -59,7 +59,7 @@ function BodyAreaDevelop() {
                   fontFamily: 'Rajdhani'
                 }}
               >
-                Current Projects
+                Public Repository
               </p>
             </div>
             <span

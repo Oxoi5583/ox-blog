@@ -1,4 +1,5 @@
 import HeaderButton from "./HeaderButton"
+import '../01-App/App.css'
 
 interface HeaderButtonsProps{
     p_is_head_area_expanded : boolean;

@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import { buildAppRouteUrl } from "../99-shared/AppRouteParameters";
+import '../01-App/App.css'
 
 interface ButtonProp{
     p_is_header_expended : boolean;

@@ -1,5 +1,6 @@
 import { useNavigate } from "react-router-dom";
 import { buildAppRouteUrl } from "../99-shared/AppRouteParameters";
+import '../01-App/App.css'
 
 interface HeaderLogoProps{
     p_is_head_area_expanded_done : boolean;

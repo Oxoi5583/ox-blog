@@ -1,4 +1,5 @@
 import { useState, useTransition } from 'react';
+import '../01-App/App.css'
 import HeaderLogo from './HeaderLogo'
 import HeaderButtons from './HeaderButtons'
 

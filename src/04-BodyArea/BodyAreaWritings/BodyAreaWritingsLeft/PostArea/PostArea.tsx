@@ -67,6 +67,7 @@ function PostArea() {
                     flexDirection: 'column',
                     height: 'auto',
                     width: '500px',
+                    fontFamily: 'Zen Maru Gothic',
                 }}
             >
                     {(isFetchingData || isFetchingTags || isFetchingTotalPages) ?

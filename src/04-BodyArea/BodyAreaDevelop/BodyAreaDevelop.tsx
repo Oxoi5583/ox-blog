@@ -23,7 +23,8 @@ function BodyAreaDevelop() {
           gap: '16px',
           width: 'min(100%, 1040px)',
           margin: '0 auto',
-          textAlign: 'left'
+          textAlign: 'left',
+          userSelect: 'text'
         }}
         >
           <div

@@ -25,6 +25,8 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
+  scrollbar-width: thin;
+
   @media (max-width: 1024px) {
     font-size: 16px;
   }
